@@ -1,0 +1,9 @@
+Analysis of US gun murder data collected by the FBI
+for edX Course "Data Science: Productivity Tools"
+
+download-data.R - downloads csv file to data directory
+
+wrangle-data.R - creates a derived dataset and saves as an R object in rda directory
+
+analysis.R - generates a plot and saves it to the figs directory
+
